@@ -1,0 +1,111 @@
+[
+    {
+        "header": {
+            "title": "React",
+            "logo": "https://raw.githubusercontent.com/SVladikO/SkillsLogo/b601db5d2e0925f6ba04d7bc4bef2ea914fbbb3d/react.svg"
+        },
+        "articles": [
+            {
+                 "group_title": "MAIN CONCEPTS",
+                 "list": [
+                    {"title": "Hello World", "isDone": true},
+                    {"title": "Introducing JSX", "isDone": true},
+                    {"title": "Rendering Elements", "isDone": true},
+                    {"title": "Components and Props", "isDone": true},
+                    {"title": "State and Lifecycle", "isDone": true},
+                    {"title": "Handling Events", "isDone": true},
+                    {"title": "Conditional Rendering", "isDone": true},
+                    {"title": "lists and Keys", "isDone": true},
+                    {"title": "Forms", "isDone": true},
+                    {"title": "Lifting State Up", "isDone": true},
+                    {"title": "Composition vs Inheritance", "isDone": true},
+                    {"title": "Thinking In React", "isDone": true}
+                ]
+            },
+            {
+                 "group_title": "ADVANCED GUIDES",
+                 "list": [
+                    {"title": "Accessibility", "isDone": false},
+                    {"title": "Code-Splitting", "isDone": false},
+                    {"title": "Context", "isDone": false},
+                    {"title": "Error Boundaries", "isDone": false},
+                    {"title": "Forwarding Refs", "isDone": false},
+                    {"title": "Fragments", "isDone": false},
+                    {"title": "Higher-Order Components", "isDone": false},
+                    {"title": "Integrating with Other Libraries", "isDone": false},
+                    {"title": "JSX In Depth", "isDone": false},
+                    {"title": "Optimizing Performance", "isDone": false},
+                    {"title": "Portals", "isDone": false},
+                    {"title": "Profiler", "isDone": false},
+                    {"title": "React Without ES6", "isDone": false},
+                    {"title": "React Without JSX", "isDone": false},
+                    {"title": "Reconciliation", "isDone": false},
+                    {"title": "Refs and the DOM", "isDone": false},
+                    {"title": "Render Props", "isDone": false},
+                    {"title": "Static Type Checking", "isDone": false},
+                    {"title": "Strict Mode", "isDone": false},
+                    {"title": "Typechecking With PropTypes", "isDone": false},
+                    {"title": "Uncontrolled Components", "isDone": false},
+                    {"title": "Web Components", "isDone": false}
+                ]
+            },
+            {
+                 "group_title": "API REFERENCE",
+                 "list": [
+                    {"title": "React", "isDone": false},
+                    {"title": "React.Component", "isDone": false},
+                    {"title": "ReactDOM", "isDone": false},
+                    {"title": "ReactDOMServer", "isDone": false},
+                    {"title": "DOM Elements", "isDone": false},
+                    {"title": "SyntheticEvent", "isDone": false},
+                    {"title": "Test Utilities", "isDone": false},
+                    {"title": "Test Renderer", "isDone": false},
+                    {"title": "JS Environment Requirements", "isDone": false}
+                ]
+            },
+            {
+                 "group_title": "HOOKS",
+                 "list": [
+                    {"title": "Introducing Hooks", "isDone": false},
+                    {"title": "Hooks at a Glance", "isDone": false},
+                    {"title": "Using the State Hook", "isDone": false},
+                    {"title": "Using the Effect Hook", "isDone": false},
+                    {"title": "Rules of Hooks", "isDone": false},
+                    {"title": "Building Your Own Hooks", "isDone": false},
+                    {"title": "Hooks API Reference", "isDone": false},
+                    {"title": "Hooks FAQ", "isDone": false}
+                ]
+            },
+            {
+                 "group_title": "TESTING",
+                 "list": [
+                    {"title": "Testing Overview", "isDone": false},
+                    {"title": "Testing Recipes", "isDone": false},
+                    {"title": "Testing Environments", "isDone": false}
+                ]
+            },
+            {
+                 "group_title": "CONTRIBUTING",
+                 "list": [
+                    {"title": "How to Contribute", "isDone": false},
+                    {"title": "Codebase Overview", "isDone": false},
+                    {"title": "Implementation Notes", "isDone": false},
+                    {"title": "Design Principles", "isDone": false}
+                ]
+            },
+            {
+                 "group_title": "FAQ",
+                 "list": [
+                    {"title": " AJAX and APIs", "isDone": false},
+                    {"title": "Babel, JSX, and Build Steps", "isDone": false},
+                    {"title": "Passing Functions to Components", "isDone": false},
+                    {"title": "Component State", "isDone": false},
+                    {"title": "Styling and CSS", "isDone": false},
+                    {"title": "File Structure", "isDone": false},
+                    {"title": "Versioning Policy", "isDone": false},
+                    {"title": "Virtual DOM and Internals", "isDone": false}
+                ]
+            }
+        ]
+    }
+]
