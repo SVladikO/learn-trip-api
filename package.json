@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/SVladikO/learn-trip-api"
   },
+  "engines": {
+    "node": "12.16.1",
+    "npm": "6.14.4"
+  },
   "author": "svladiko",
   "license": "ISC",
   "dependencies": {
