@@ -5,6 +5,9 @@ const port = process.env.PORT || 3000
 app.get('/', (req, res) => {
     res.send('Hello bro')
 })
+app.get('/v', (req, res) => {
+    res.send('First step done')
+})
 
 app.listen(port, () => {
     console.log(`App is run on ${port}`)
